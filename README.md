@@ -9,7 +9,7 @@ wm - without music
 
 Music files start with version 1.19.30. All versions below this one are without music. Please ignore the fact that there is no "wm" in the file name.
 
-The APKS files are original. If you didn't buy Minecraft from Google Play, don't download it; it won't work.
+The APKS files are original. If you didn't buy Minecraft from Google Play, don't download it; it won't work. (Maybe someone will need them for experiments)
 
 If you want to convert from APKS to APK then use this app - https://github.com/AbdurazaaqMohammed/AntiSplit-M
 
