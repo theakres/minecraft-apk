@@ -5,7 +5,7 @@ HERE ONLY RELEASES, NO BETA.
 How do you figure out which file to download?  
 v8a - for arm-v8a devices  
 v7a - for armeabi-v7a devices  
-wm - without music
+nm - no music
 
 Music files start with version 1.19.30. All versions below this one are without music. Please ignore the fact that there is no "wm" in the file name.
 
